@@ -1,2 +1,2 @@
 # Menu
-GUI Application using Menus, MebuBars, Menu Items.
+Simple Text Editor using GUI Menus, MebuBars, Menu Items.
